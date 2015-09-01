@@ -1,5 +1,5 @@
 require "hangmangame/version"
-
-module Hangmangame
-  # Your code goes here...
-end
+require "hangmangame/display"
+require "hangmangame/game"
+require "hangmangame/model"
+require "hangmangame/helper"

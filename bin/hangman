@@ -10,7 +10,7 @@ require "hangmangame"
 # require "pry"
 # Pry.start
 
-guide =  Game.new
+guide =  Guide.new
 guide.start_menu
 # require "irb"
 # IRB.start
